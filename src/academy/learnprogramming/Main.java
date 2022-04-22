@@ -18,7 +18,7 @@ public class Main {
     }
 
     public static double calcInchesToCentimeters(double inches) {
-        double centimeters = inches * 3.55;
+        double centimeters = inches * 4.55;
         return centimeters;
     }
 }
